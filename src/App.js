@@ -42,7 +42,7 @@ function App() {
       <div style={{fontWeight: 'bold', color: 'white', position: 'absolute', top: '20px', left: '20px', paddingLeft: "25px", paddingRight: "25px", paddingTop: "10px", paddingBottom: "10px", backgroundColor: 'rgba(255,255,255,0.08)', borderRadius: "20px"}}>
         All the Quotes being used are fetched from <span style={{fontWeight: 'lighter'}}><a href={'https://ron-swanson-quotes.herokuapp.com/v2/quotes'} target='_blank' style={{ color: "#" + color}}>{'https://ron-swanson-quotes.herokuapp.com/v2/quotes'}</a></span>
       </div>
-      <div style={{fontWeight: 'bold', color: 'white', position: 'absolute', top: '20px', right: '20px', paddingLeft: "25px", paddingRight: "25px", paddingTop: "10px", paddingBottom: "10px", backgroundColor: 'rgba(255,255,255,0.08)', borderRadius: "20px"}}>
+      <div style={{fontWeight: 'bold', color: 'white', position: 'absolute', bottom: '20px', right: '20px', paddingLeft: "25px", paddingRight: "25px", paddingTop: "10px", paddingBottom: "10px", backgroundColor: 'rgba(255,255,255,0.08)', borderRadius: "20px"}}>
         Github : <span style={{fontWeight: 'lighter'}}><a href={'https://github.com/Binit06/quotes'} target='_blank' style={{ color: "#" + color}}>{'https://github.com/Binit06/quotes'}</a></span>
       </div>
     </div>
